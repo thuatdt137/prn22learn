@@ -1,0 +1,14 @@
+E:\spring25\prn222\prn222learn\webrequest_res_demo\bin\Debug\net8.0\webrequest_res_demo.exe
+E:\spring25\prn222\prn222learn\webrequest_res_demo\bin\Debug\net8.0\webrequest_res_demo.deps.json
+E:\spring25\prn222\prn222learn\webrequest_res_demo\bin\Debug\net8.0\webrequest_res_demo.runtimeconfig.json
+E:\spring25\prn222\prn222learn\webrequest_res_demo\bin\Debug\net8.0\webrequest_res_demo.dll
+E:\spring25\prn222\prn222learn\webrequest_res_demo\bin\Debug\net8.0\webrequest_res_demo.pdb
+E:\spring25\prn222\prn222learn\webrequest_res_demo\obj\Debug\net8.0\webrequest_res_demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\spring25\prn222\prn222learn\webrequest_res_demo\obj\Debug\net8.0\webrequest_res_demo.AssemblyInfoInputs.cache
+E:\spring25\prn222\prn222learn\webrequest_res_demo\obj\Debug\net8.0\webrequest_res_demo.AssemblyInfo.cs
+E:\spring25\prn222\prn222learn\webrequest_res_demo\obj\Debug\net8.0\webrequest_res_demo.csproj.CoreCompileInputs.cache
+E:\spring25\prn222\prn222learn\webrequest_res_demo\obj\Debug\net8.0\webrequest_res_demo.dll
+E:\spring25\prn222\prn222learn\webrequest_res_demo\obj\Debug\net8.0\refint\webrequest_res_demo.dll
+E:\spring25\prn222\prn222learn\webrequest_res_demo\obj\Debug\net8.0\webrequest_res_demo.pdb
+E:\spring25\prn222\prn222learn\webrequest_res_demo\obj\Debug\net8.0\webrequest_res_demo.genruntimeconfig.cache
+E:\spring25\prn222\prn222learn\webrequest_res_demo\obj\Debug\net8.0\ref\webrequest_res_demo.dll

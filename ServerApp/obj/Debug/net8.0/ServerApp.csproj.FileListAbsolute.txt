@@ -1,0 +1,14 @@
+E:\spring25\prn222\prn222learn\ServerApp\bin\Debug\net8.0\ServerApp.exe
+E:\spring25\prn222\prn222learn\ServerApp\bin\Debug\net8.0\ServerApp.deps.json
+E:\spring25\prn222\prn222learn\ServerApp\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+E:\spring25\prn222\prn222learn\ServerApp\bin\Debug\net8.0\ServerApp.dll
+E:\spring25\prn222\prn222learn\ServerApp\bin\Debug\net8.0\ServerApp.pdb
+E:\spring25\prn222\prn222learn\ServerApp\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\spring25\prn222\prn222learn\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+E:\spring25\prn222\prn222learn\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+E:\spring25\prn222\prn222learn\ServerApp\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+E:\spring25\prn222\prn222learn\ServerApp\obj\Debug\net8.0\ServerApp.dll
+E:\spring25\prn222\prn222learn\ServerApp\obj\Debug\net8.0\refint\ServerApp.dll
+E:\spring25\prn222\prn222learn\ServerApp\obj\Debug\net8.0\ServerApp.pdb
+E:\spring25\prn222\prn222learn\ServerApp\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+E:\spring25\prn222\prn222learn\ServerApp\obj\Debug\net8.0\ref\ServerApp.dll
