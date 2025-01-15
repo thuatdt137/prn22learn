@@ -1,0 +1,15 @@
+E:\spring25\prn222\prn222learn\Slot2_UsingTaskDemonstration02\bin\Debug\net8.0\Slot2_UsingTaskDemonstration02.exe
+E:\spring25\prn222\prn222learn\Slot2_UsingTaskDemonstration02\bin\Debug\net8.0\Slot2_UsingTaskDemonstration02.deps.json
+E:\spring25\prn222\prn222learn\Slot2_UsingTaskDemonstration02\bin\Debug\net8.0\Slot2_UsingTaskDemonstration02.runtimeconfig.json
+E:\spring25\prn222\prn222learn\Slot2_UsingTaskDemonstration02\bin\Debug\net8.0\Slot2_UsingTaskDemonstration02.dll
+E:\spring25\prn222\prn222learn\Slot2_UsingTaskDemonstration02\bin\Debug\net8.0\Slot2_UsingTaskDemonstration02.pdb
+E:\spring25\prn222\prn222learn\Slot2_UsingTaskDemonstration02\obj\Debug\net8.0\Slot2_UsingTaskDemonstration02.GeneratedMSBuildEditorConfig.editorconfig
+E:\spring25\prn222\prn222learn\Slot2_UsingTaskDemonstration02\obj\Debug\net8.0\Slot2_UsingTaskDemonstration02.AssemblyInfoInputs.cache
+E:\spring25\prn222\prn222learn\Slot2_UsingTaskDemonstration02\obj\Debug\net8.0\Slot2_UsingTaskDemonstration02.AssemblyInfo.cs
+E:\spring25\prn222\prn222learn\Slot2_UsingTaskDemonstration02\obj\Debug\net8.0\Slot2_UsingTaskDemonstration02.csproj.CoreCompileInputs.cache
+E:\spring25\prn222\prn222learn\Slot2_UsingTaskDemonstration02\obj\Debug\net8.0\Slot2_UsingTaskDemonstration02.sourcelink.json
+E:\spring25\prn222\prn222learn\Slot2_UsingTaskDemonstration02\obj\Debug\net8.0\Slot2_UsingTaskDemonstration02.dll
+E:\spring25\prn222\prn222learn\Slot2_UsingTaskDemonstration02\obj\Debug\net8.0\refint\Slot2_UsingTaskDemonstration02.dll
+E:\spring25\prn222\prn222learn\Slot2_UsingTaskDemonstration02\obj\Debug\net8.0\Slot2_UsingTaskDemonstration02.pdb
+E:\spring25\prn222\prn222learn\Slot2_UsingTaskDemonstration02\obj\Debug\net8.0\Slot2_UsingTaskDemonstration02.genruntimeconfig.cache
+E:\spring25\prn222\prn222learn\Slot2_UsingTaskDemonstration02\obj\Debug\net8.0\ref\Slot2_UsingTaskDemonstration02.dll
