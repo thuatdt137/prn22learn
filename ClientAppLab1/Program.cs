@@ -5,7 +5,7 @@ namespace ClientAppLab1
 {
     internal class Program
     {
-        static async Task Main()
+        static async Task Main(string[] args)
         {
             const string server = "127.0.0.1";
             const int port = 8080;

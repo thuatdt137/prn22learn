@@ -22,7 +22,7 @@ namespace ServerAppLab2
                     TcpClient client = await server.AcceptTcpClientAsync();
                     Console.WriteLine("Client connected.");
 
-                    _ = HandleClientAsync(client); // Handle client in a separate task
+                    _ = HandleClientAsync(client); // Handle each client in a separate task
                 }
             }
             catch (Exception ex)
