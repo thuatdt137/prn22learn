@@ -1,0 +1,15 @@
+E:\spring25\prn222\prn222learn\ServerAppLab2\bin\Debug\net8.0\ServerAppLab2.exe
+E:\spring25\prn222\prn222learn\ServerAppLab2\bin\Debug\net8.0\ServerAppLab2.deps.json
+E:\spring25\prn222\prn222learn\ServerAppLab2\bin\Debug\net8.0\ServerAppLab2.runtimeconfig.json
+E:\spring25\prn222\prn222learn\ServerAppLab2\bin\Debug\net8.0\ServerAppLab2.dll
+E:\spring25\prn222\prn222learn\ServerAppLab2\bin\Debug\net8.0\ServerAppLab2.pdb
+E:\spring25\prn222\prn222learn\ServerAppLab2\obj\Debug\net8.0\ServerAppLab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\spring25\prn222\prn222learn\ServerAppLab2\obj\Debug\net8.0\ServerAppLab2.AssemblyInfoInputs.cache
+E:\spring25\prn222\prn222learn\ServerAppLab2\obj\Debug\net8.0\ServerAppLab2.AssemblyInfo.cs
+E:\spring25\prn222\prn222learn\ServerAppLab2\obj\Debug\net8.0\ServerAppLab2.csproj.CoreCompileInputs.cache
+E:\spring25\prn222\prn222learn\ServerAppLab2\obj\Debug\net8.0\ServerAppLab2.sourcelink.json
+E:\spring25\prn222\prn222learn\ServerAppLab2\obj\Debug\net8.0\ServerAppLab2.dll
+E:\spring25\prn222\prn222learn\ServerAppLab2\obj\Debug\net8.0\refint\ServerAppLab2.dll
+E:\spring25\prn222\prn222learn\ServerAppLab2\obj\Debug\net8.0\ServerAppLab2.pdb
+E:\spring25\prn222\prn222learn\ServerAppLab2\obj\Debug\net8.0\ServerAppLab2.genruntimeconfig.cache
+E:\spring25\prn222\prn222learn\ServerAppLab2\obj\Debug\net8.0\ref\ServerAppLab2.dll
