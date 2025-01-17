@@ -18,3 +18,4 @@ E:\spring25\prn222\prn222learn\slot1_httpclientClass\obj\Debug\net8.0-windows\re
 E:\spring25\prn222\prn222learn\slot1_httpclientClass\obj\Debug\net8.0-windows\slot1_DemoHttpClient.pdb
 E:\spring25\prn222\prn222learn\slot1_httpclientClass\obj\Debug\net8.0-windows\slot1_DemoHttpClient.genruntimeconfig.cache
 E:\spring25\prn222\prn222learn\slot1_httpclientClass\obj\Debug\net8.0-windows\ref\slot1_DemoHttpClient.dll
+E:\spring25\prn222\prn222learn\slot1_httpclientClass\obj\Debug\net8.0-windows\slot1_DemoHttpClient.sourcelink.json

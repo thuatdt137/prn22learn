@@ -7,17 +7,32 @@
         mc:Ignorable="d"
         WindowStartupLocation="CenterScreen" 
         Title="Gemini Chat" Height="400" Width="600">
-    <Grid Margin="10">
+    <Grid Background="LightBlue"  >
         <Grid.RowDefinitions>
-            <RowDefinition Height="*" />
-            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
         </Grid.RowDefinitions>
-        <ScrollViewer VerticalScrollBarVisibility="Auto">
-            <TextBlock Name="ChatHistory" TextWrapping="Wrap" />
-        </ScrollViewer>
-        <StackPanel Grid.Row="1" Orientation="Horizontal">
-            <TextBox Name="UserInput" Width="400" Margin="5" />
-            <Button Content="Send" Width="100" Click="SendButton_Click" />
+        <StackPanel VerticalAlignment="Stretch" 
+                    HorizontalAlignment="Stretch" 
+                    Orientation="Vertical">
+            <Label Name="lblURL" Content="URL"/>
+            <TextBox Name="txtURL" Text="http://www.contoso.com" Height="25" />
+            <Label Name="lbContent"  Content="HTML Source" />
+        </StackPanel>
+        <TextBox Grid.Row="1" Name="txtContent"  TextWrapping="Wrap"       
+                    HorizontalScrollBarVisibility="Auto"
+                    AcceptsReturn="True" 
+                    VerticalScrollBarVisibility="Visible" />
+        <StackPanel Grid.Row="2" Orientation="Horizontal" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Top" >
+            <Button x:Name="btnViewHTML" Margin="25,5" Width="80"                     
+                    Content="View HTML" Click="btnViewHTML_Click" />
+            <Button x:Name="btnClear" Margin="25,5" Width="80" 
+                    Content="Clear" Click="btnClear_Click"/>
+            <Button x:Name="btnClose" Margin="25,5" 
+                    Width="80" Content="Close" Click="btnClose_Click"/>
         </StackPanel>
     </Grid>
 

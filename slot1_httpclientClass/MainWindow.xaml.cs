@@ -18,93 +18,34 @@ namespace slot1_httpclientClass
     /// </summary>
     public partial class MainWindow : Window
     {
-        private readonly HttpClient _httpClient;
-        private const string ApiKey = "AIzaSyDL-n0E-C15LpVHiJa61R8tocit4bQUzKI"; // Thay bằng API key thực tế của bạn
-        private const string Endpoint = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent";
-
         public MainWindow()
         {
             InitializeComponent();
-            _httpClient = new HttpClient();
         }
 
-        private async void SendButton_Click(object sender, RoutedEventArgs e)
+        readonly HttpClient client = new HttpClient();
+
+        private void btnClose_Click(object sender, RoutedEventArgs e) => Close();
+
+        private void btnClear_Click(object sender, RoutedEventArgs e)
         {
-            var userMessage = UserInput.Text;
-
-            if (string.IsNullOrWhiteSpace(userMessage))
-            {
-                MessageBox.Show("Please enter a message.");
-                return;
-            }
-
-            AppendToChatHistory($"You: {userMessage}");
-
-            var response = await SendMessageToGemini(userMessage);
-
-            if (!string.IsNullOrEmpty(response))
-            {
-                AppendToChatHistory($"Gemini: {response}");
-            }
-
-            UserInput.Clear();
+            txtContent.Text = string.Empty;
         }
 
-        private async Task<string> SendMessageToGemini(string userMessage)
+        private async void btnViewHTML_Click(object sender, RoutedEventArgs e)
         {
+            string url = txtURL.Text;
+
+            // Call asynchronous network methods in a try/catch block to handle exceptions
             try
             {
-                // Tạo URL với API key
-                var url = $"{Endpoint}?key={ApiKey}";
-
-                // Dữ liệu JSON
-                var requestBody = new
-                {
-                    contents = new[]
-                    {
-                        new
-                        {
-                            parts = new[]
-                            {
-                                new { text = userMessage }
-                            }
-                        }
-                    }
-                };
-
-                var json = JsonSerializer.Serialize(requestBody);
-                var content = new StringContent(json, Encoding.UTF8, "application/json");
-
-                // Gửi yêu cầu POST
-                var response = await _httpClient.PostAsync(url, content);
-
-                response.EnsureSuccessStatusCode();
-
-                // Đọc nội dung phản hồi
-                var responseBody = await response.Content.ReadAsStringAsync();
-
-                // Phân tích phản hồi JSON
-                var responseObject = JsonSerializer.Deserialize<JsonElement>(responseBody);
-
-                // Trích xuất phần text từ phản hồi
-                if (responseObject.TryGetProperty("contents", out var contents) &&
-                    contents[0].TryGetProperty("parts", out var parts) &&
-                    parts[0].TryGetProperty("text", out var text))
-                {
-                    return text.GetString();
-                }
-
-                return "Unable to parse response.";
+                string responseBody = await client.GetStringAsync(url);
+                txtContent.Text = responseBody.Trim();
             }
-            catch (Exception ex)
+            catch (HttpRequestException ex)
             {
-                return $"Error: {ex.Message}";
+                MessageBox.Show($"Message :{ex.Message}");
             }
-        }
-
-        private void AppendToChatHistory(string message)
-        {
-            ChatHistory.Text += message + "\n";
         }
     }
 }
