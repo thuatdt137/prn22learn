@@ -1,0 +1,15 @@
+E:\spring25\prn222\prn222learn\URIDemo\bin\Debug\net8.0\URIDemo.exe
+E:\spring25\prn222\prn222learn\URIDemo\bin\Debug\net8.0\URIDemo.deps.json
+E:\spring25\prn222\prn222learn\URIDemo\bin\Debug\net8.0\URIDemo.runtimeconfig.json
+E:\spring25\prn222\prn222learn\URIDemo\bin\Debug\net8.0\URIDemo.dll
+E:\spring25\prn222\prn222learn\URIDemo\bin\Debug\net8.0\URIDemo.pdb
+E:\spring25\prn222\prn222learn\URIDemo\obj\Debug\net8.0\URIDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\spring25\prn222\prn222learn\URIDemo\obj\Debug\net8.0\URIDemo.AssemblyInfoInputs.cache
+E:\spring25\prn222\prn222learn\URIDemo\obj\Debug\net8.0\URIDemo.AssemblyInfo.cs
+E:\spring25\prn222\prn222learn\URIDemo\obj\Debug\net8.0\URIDemo.csproj.CoreCompileInputs.cache
+E:\spring25\prn222\prn222learn\URIDemo\obj\Debug\net8.0\URIDemo.sourcelink.json
+E:\spring25\prn222\prn222learn\URIDemo\obj\Debug\net8.0\URIDemo.dll
+E:\spring25\prn222\prn222learn\URIDemo\obj\Debug\net8.0\refint\URIDemo.dll
+E:\spring25\prn222\prn222learn\URIDemo\obj\Debug\net8.0\URIDemo.pdb
+E:\spring25\prn222\prn222learn\URIDemo\obj\Debug\net8.0\URIDemo.genruntimeconfig.cache
+E:\spring25\prn222\prn222learn\URIDemo\obj\Debug\net8.0\ref\URIDemo.dll

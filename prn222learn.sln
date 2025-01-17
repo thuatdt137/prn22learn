@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientAppLab1", "ClientAppL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerAppLab2", "ServerAppLab2\ServerAppLab2.csproj", "{45E23788-A9B1-46EC-A624-D7D06FC5A8DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URIDemo", "URIDemo\URIDemo.csproj", "{FD2D6C43-7787-4EE0-9515-69DC00C4E71B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNSDemo", "DNSDemo\DNSDemo.csproj", "{336CDFC2-7BEF-4FD1-B173-4114FA7FDF0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{45E23788-A9B1-46EC-A624-D7D06FC5A8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45E23788-A9B1-46EC-A624-D7D06FC5A8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45E23788-A9B1-46EC-A624-D7D06FC5A8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2D6C43-7787-4EE0-9515-69DC00C4E71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2D6C43-7787-4EE0-9515-69DC00C4E71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2D6C43-7787-4EE0-9515-69DC00C4E71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2D6C43-7787-4EE0-9515-69DC00C4E71B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336CDFC2-7BEF-4FD1-B173-4114FA7FDF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336CDFC2-7BEF-4FD1-B173-4114FA7FDF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336CDFC2-7BEF-4FD1-B173-4114FA7FDF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336CDFC2-7BEF-4FD1-B173-4114FA7FDF0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

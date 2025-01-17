@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webrequest_res_demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75114e5f0c79264d4ad73c78740069a4ab8eb073")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a20bf0f5eea4e678a687586b908c6269c2c7437c")]
 [assembly: System.Reflection.AssemblyProductAttribute("webrequest_res_demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webrequest_res_demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+E:\spring25\prn222\prn222learn\DNSDemo\bin\Debug\net8.0\DNSDemo.exe
+E:\spring25\prn222\prn222learn\DNSDemo\bin\Debug\net8.0\DNSDemo.deps.json
+E:\spring25\prn222\prn222learn\DNSDemo\bin\Debug\net8.0\DNSDemo.runtimeconfig.json
+E:\spring25\prn222\prn222learn\DNSDemo\bin\Debug\net8.0\DNSDemo.dll
+E:\spring25\prn222\prn222learn\DNSDemo\bin\Debug\net8.0\DNSDemo.pdb
+E:\spring25\prn222\prn222learn\DNSDemo\obj\Debug\net8.0\DNSDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\spring25\prn222\prn222learn\DNSDemo\obj\Debug\net8.0\DNSDemo.AssemblyInfoInputs.cache
+E:\spring25\prn222\prn222learn\DNSDemo\obj\Debug\net8.0\DNSDemo.AssemblyInfo.cs
+E:\spring25\prn222\prn222learn\DNSDemo\obj\Debug\net8.0\DNSDemo.csproj.CoreCompileInputs.cache
+E:\spring25\prn222\prn222learn\DNSDemo\obj\Debug\net8.0\DNSDemo.sourcelink.json
+E:\spring25\prn222\prn222learn\DNSDemo\obj\Debug\net8.0\DNSDemo.dll
+E:\spring25\prn222\prn222learn\DNSDemo\obj\Debug\net8.0\refint\DNSDemo.dll
+E:\spring25\prn222\prn222learn\DNSDemo\obj\Debug\net8.0\DNSDemo.pdb
+E:\spring25\prn222\prn222learn\DNSDemo\obj\Debug\net8.0\DNSDemo.genruntimeconfig.cache
+E:\spring25\prn222\prn222learn\DNSDemo\obj\Debug\net8.0\ref\DNSDemo.dll
