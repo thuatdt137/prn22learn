@@ -19,13 +19,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot3_UsingTaskDemonstratio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slot3_UsingTaskDemonstration04", "Slot2_UsingTaskDemonstration04\Slot3_UsingTaskDemonstration04.csproj", "{63174B24-983F-4D86-9340-B60100E2BE1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientAppLab1", "ClientAppLab1\ClientAppLab1.csproj", "{00A0D8E9-CA98-4751-B997-7167605793C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientAppLab1", "ClientAppLab1\ClientAppLab1.csproj", "{00A0D8E9-CA98-4751-B997-7167605793C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerAppLab2", "ServerAppLab2\ServerAppLab2.csproj", "{45E23788-A9B1-46EC-A624-D7D06FC5A8DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerAppLab2", "ServerAppLab2\ServerAppLab2.csproj", "{45E23788-A9B1-46EC-A624-D7D06FC5A8DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URIDemo", "URIDemo\URIDemo.csproj", "{FD2D6C43-7787-4EE0-9515-69DC00C4E71B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "URIDemo", "URIDemo\URIDemo.csproj", "{FD2D6C43-7787-4EE0-9515-69DC00C4E71B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNSDemo", "DNSDemo\DNSDemo.csproj", "{336CDFC2-7BEF-4FD1-B173-4114FA7FDF0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DNSDemo", "DNSDemo\DNSDemo.csproj", "{336CDFC2-7BEF-4FD1-B173-4114FA7FDF0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PLINQDemonstration1", "PLINQDemonstration1\PLINQDemonstration1.csproj", "{00904870-863B-4D46-89A9-EFD7AF33A26F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PLINQDemonstration2", "PLINQDemonstration2\PLINQDemonstration2.csproj", "{E19096FE-B80D-4B9C-B5C2-3B16E09A5969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousDemonstration-01", "AsynchronousDemonstration-01\AsynchronousDemonstration-01.csproj", "{E0995FE6-D384-47EB-951E-C0D70F26A544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{F13C58BD-462F-4419-8AF0-4706D158D342}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +89,22 @@ Global
 		{336CDFC2-7BEF-4FD1-B173-4114FA7FDF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{336CDFC2-7BEF-4FD1-B173-4114FA7FDF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{336CDFC2-7BEF-4FD1-B173-4114FA7FDF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00904870-863B-4D46-89A9-EFD7AF33A26F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00904870-863B-4D46-89A9-EFD7AF33A26F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00904870-863B-4D46-89A9-EFD7AF33A26F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00904870-863B-4D46-89A9-EFD7AF33A26F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E19096FE-B80D-4B9C-B5C2-3B16E09A5969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19096FE-B80D-4B9C-B5C2-3B16E09A5969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19096FE-B80D-4B9C-B5C2-3B16E09A5969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19096FE-B80D-4B9C-B5C2-3B16E09A5969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0995FE6-D384-47EB-951E-C0D70F26A544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0995FE6-D384-47EB-951E-C0D70F26A544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0995FE6-D384-47EB-951E-C0D70F26A544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0995FE6-D384-47EB-951E-C0D70F26A544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F13C58BD-462F-4419-8AF0-4706D158D342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13C58BD-462F-4419-8AF0-4706D158D342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13C58BD-462F-4419-8AF0-4706D158D342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13C58BD-462F-4419-8AF0-4706D158D342}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

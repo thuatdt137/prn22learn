@@ -1,0 +1,15 @@
+E:\spring25\prn222\prn222learn\PLINQDemonstration1\bin\Debug\net8.0\PLINQDemonstration1.exe
+E:\spring25\prn222\prn222learn\PLINQDemonstration1\bin\Debug\net8.0\PLINQDemonstration1.deps.json
+E:\spring25\prn222\prn222learn\PLINQDemonstration1\bin\Debug\net8.0\PLINQDemonstration1.runtimeconfig.json
+E:\spring25\prn222\prn222learn\PLINQDemonstration1\bin\Debug\net8.0\PLINQDemonstration1.dll
+E:\spring25\prn222\prn222learn\PLINQDemonstration1\bin\Debug\net8.0\PLINQDemonstration1.pdb
+E:\spring25\prn222\prn222learn\PLINQDemonstration1\obj\Debug\net8.0\PLINQDemonstration1.GeneratedMSBuildEditorConfig.editorconfig
+E:\spring25\prn222\prn222learn\PLINQDemonstration1\obj\Debug\net8.0\PLINQDemonstration1.AssemblyInfoInputs.cache
+E:\spring25\prn222\prn222learn\PLINQDemonstration1\obj\Debug\net8.0\PLINQDemonstration1.AssemblyInfo.cs
+E:\spring25\prn222\prn222learn\PLINQDemonstration1\obj\Debug\net8.0\PLINQDemonstration1.csproj.CoreCompileInputs.cache
+E:\spring25\prn222\prn222learn\PLINQDemonstration1\obj\Debug\net8.0\PLINQDemonstration1.sourcelink.json
+E:\spring25\prn222\prn222learn\PLINQDemonstration1\obj\Debug\net8.0\PLINQDemonstration1.dll
+E:\spring25\prn222\prn222learn\PLINQDemonstration1\obj\Debug\net8.0\refint\PLINQDemonstration1.dll
+E:\spring25\prn222\prn222learn\PLINQDemonstration1\obj\Debug\net8.0\PLINQDemonstration1.pdb
+E:\spring25\prn222\prn222learn\PLINQDemonstration1\obj\Debug\net8.0\PLINQDemonstration1.genruntimeconfig.cache
+E:\spring25\prn222\prn222learn\PLINQDemonstration1\obj\Debug\net8.0\ref\PLINQDemonstration1.dll
