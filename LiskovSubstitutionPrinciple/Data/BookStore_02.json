@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Title": "Angular",
+    "Author": "Rajesh Gunasundaram",
+    "Price": 54.99,
+    "Topic": "Angular"
+  },
+  {
+    "Title": "Mastering ASP.NET Core",
+    "Author": "Ricardo Peres",
+    "Price": 50.91,
+    "Topic": "Angular"
+  }
+]

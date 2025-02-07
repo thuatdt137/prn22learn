@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cpuI9gIJ1zvupDu+XJbf5f/bkd/fGGdvqF3k2JOCJ/Wr5Y/o5G9OzSoTsaMJHRabD03uFU1G6jQ5UEJNIjyv3A==",
+  "dgSpecHash": "IeJ0dMxkEivMhO2biQOuYtpasaStcrBltrn+mg351+ety3LrsN37uq2Dbg82IqQZN8BUlFbXDvlXImPpKlD3vQ==",
   "success": true,
-  "projectFilePath": "E:\\spring25\\prn222\\prn222learn\\SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\spring25\\prn222\\prn222learn\\SingleResponsibilityPrinciple\\OpenClosedPrinciple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thuat\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
