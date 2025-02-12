@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrincipe", "InterfaceSegregationPrincipe\InterfaceSegregationPrincipe.csproj", "{8900A333-A92E-408B-BCBB-150030D9EBD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCPatternDemo", "IoCPatternDemo\IoCPatternDemo.csproj", "{AFAED6AD-5DCE-47C8-A9EF-13AA193563FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{8900A333-A92E-408B-BCBB-150030D9EBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8900A333-A92E-408B-BCBB-150030D9EBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8900A333-A92E-408B-BCBB-150030D9EBD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAED6AD-5DCE-47C8-A9EF-13AA193563FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAED6AD-5DCE-47C8-A9EF-13AA193563FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAED6AD-5DCE-47C8-A9EF-13AA193563FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAED6AD-5DCE-47C8-A9EF-13AA193563FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

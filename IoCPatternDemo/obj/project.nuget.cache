@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FseprLU/h7C/jK6cbfIvl5h/NGz23y8oL3ceS8yHNX3vTVB4797H5Wg9yBrl5LL8qOcMQOU1V26L9kFHTNO4Iw==",
+  "dgSpecHash": "b/G7sI3+Eg+x4rtP1f+oizFWNOl1VH3wNMpXfNtjiivBffda3TGDnk3USPCufHaLeCmUHTCznuUyfxWY55d4GA==",
   "success": true,
   "projectFilePath": "E:\\spring25\\prn222\\prn222learn\\IoCPatternDemo\\IoCPatternDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\thuat\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
