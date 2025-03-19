@@ -35,11 +35,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsynchronousDemonstration-0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosedPrinciple", "SingleResponsibilityPrinciple\OpenClosedPrinciple.csproj", "{F13C58BD-462F-4419-8AF0-4706D158D342}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{4082FA26-56BD-4298-AAFC-412B51CCA84B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{4082FA26-56BD-4298-AAFC-412B51CCA84B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrincipe", "InterfaceSegregationPrincipe\InterfaceSegregationPrincipe.csproj", "{8900A333-A92E-408B-BCBB-150030D9EBD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregationPrincipe", "InterfaceSegregationPrincipe\InterfaceSegregationPrincipe.csproj", "{8900A333-A92E-408B-BCBB-150030D9EBD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCPatternDemo", "IoCPatternDemo\IoCPatternDemo.csproj", "{AFAED6AD-5DCE-47C8-A9EF-13AA193563FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IoCPatternDemo", "IoCPatternDemo\IoCPatternDemo.csproj", "{AFAED6AD-5DCE-47C8-A9EF-13AA193563FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceCollectionClassDemo", "ServiceCollectionClassDemo\ServiceCollectionClassDemo.csproj", "{1C2F588E-AC94-48CA-959B-88EEE61A6E2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWorkerService01", "DemoWorkerService01\DemoWorkerService01.csproj", "{D4EE22DF-73A8-449B-AB22-EC567DA2C72D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeRateService", "ExchangeRateService\ExchangeRateService.csproj", "{010639C4-55E9-49F5-8C6E-54B1581AFA8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +129,18 @@ Global
 		{AFAED6AD-5DCE-47C8-A9EF-13AA193563FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFAED6AD-5DCE-47C8-A9EF-13AA193563FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFAED6AD-5DCE-47C8-A9EF-13AA193563FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2F588E-AC94-48CA-959B-88EEE61A6E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2F588E-AC94-48CA-959B-88EEE61A6E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2F588E-AC94-48CA-959B-88EEE61A6E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2F588E-AC94-48CA-959B-88EEE61A6E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4EE22DF-73A8-449B-AB22-EC567DA2C72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4EE22DF-73A8-449B-AB22-EC567DA2C72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4EE22DF-73A8-449B-AB22-EC567DA2C72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4EE22DF-73A8-449B-AB22-EC567DA2C72D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{010639C4-55E9-49F5-8C6E-54B1581AFA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010639C4-55E9-49F5-8C6E-54B1581AFA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010639C4-55E9-49F5-8C6E-54B1581AFA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010639C4-55E9-49F5-8C6E-54B1581AFA8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
